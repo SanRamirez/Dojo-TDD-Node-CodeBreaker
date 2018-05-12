@@ -38,4 +38,3 @@ class CodeBreaker {
 }
 
 module.exports = CodeBreaker;
-//export default class {}
